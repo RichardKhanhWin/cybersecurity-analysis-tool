@@ -1,0 +1,1 @@
+$logs = Get-EventLog -LogName System
